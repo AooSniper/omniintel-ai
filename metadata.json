@@ -1,0 +1,5 @@
+{
+  "name": "OmniIntel - AI 情报收集器",
+  "description": "一个高科技情报仪表盘，利用 Gemini 搜索接地技术，从 Twitter、Reddit、YouTube、小红书、即刻等平台聚合全球 AI 趋势，生成每日综合中文报告。",
+  "requestFramePermissions": []
+}
